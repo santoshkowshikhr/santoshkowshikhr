@@ -1,13 +1,13 @@
 # Santosh Kowshik
 
-Backend and distributed systems engineer working with Go and Python.
+I build backend and distributed systems with Go and Python.
 
-I'm developing lessons for working engineers on DSA, system design, and practical AI, using small runnable examples.
+I'm developing practical lessons for working software engineers on data structures and algorithms, system design, and AI. Each lesson starts with a small example and examines the tradeoffs, failure cases, and ways to check correctness.
 
 ## Projects
 
-- [url-shortener](https://github.com/santoshkowshikhr/url-shortener): A URL-shortening service using Go, SQLite, and Redis.
-- [go-build-deploy](https://github.com/santoshkowshikhr/go-build-deploy): A GitHub Action that builds Go code and copies artifacts to EC2/S3.
+- [url-shortener](https://github.com/santoshkowshikhr/url-shortener): A Go service with SQLite persistence and Redis caching. Explore URL expiry, cache behavior, and storage tradeoffs.
+- [go-build-deploy](https://github.com/santoshkowshikhr/go-build-deploy): A GitHub Action that builds Go binaries and copies artifacts to EC2 or S3. Explore workflow inputs, artifact naming, and delivery configuration.
 
 ## Writing and links
 
