@@ -1,16 +1,15 @@
-## Hi there 👋
+# Santosh Kowshik
 
-<!--
-**santoshkowshikhr/santoshkowshikhr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend and distributed systems engineer working with Go and Python.
 
-Here are some ideas to get you started:
+I'm developing lessons for working engineers on DSA, system design, and practical AI, using small runnable examples.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- [url-shortener](https://github.com/santoshkowshikhr/url-shortener): A URL-shortening service using Go, SQLite, and Redis.
+- [go-build-deploy](https://github.com/santoshkowshikhr/go-build-deploy): A GitHub Action that builds Go code and copies artifacts to EC2/S3.
+
+## Writing and links
+
+- [Medium](https://medium.com/@santoshkowshikhr)
+- [LinkedIn](https://www.linkedin.com/in/santoshkowshikhr/)
